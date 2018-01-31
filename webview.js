@@ -18,6 +18,7 @@ module.exports = (Franz) => {
     Franz.setBadge(count);
   };
 
+  document.querySelector('body').className += ' darkTheme';
   Franz.injectCSS(path.join(__dirname, 'service.css'));
   Franz.loop(getMessages);
 };
