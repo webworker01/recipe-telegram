@@ -1,4 +1,4 @@
-# Telegram for Franz
+# Telegram Adv for Franz
 This is the non-official Franz recipe for Telegram
 
 ### Features
