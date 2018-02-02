@@ -7,7 +7,7 @@ This is the non-official Franz recipe for Telegram
 
 ### Installation
 * Install [Franz](https://meetfranz.com)
-* Download this repo as a zip file 
+* Download this repo as a [zip file](https://github.com/webworker01/recipe-telegram/archive/master.zip)
 * Extract the archive into %APPDATA%/Franz/recipes/dev/telegram-adv
 * Telegram Adv should now appear under "Available Services" -> "Development"
 
